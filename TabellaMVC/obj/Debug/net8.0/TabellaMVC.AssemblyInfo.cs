@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TabellaMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6795799297d75cc837bc74e673deca3cbdbff367")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1ea0be704563aa01866a81a73d7864a5fbd2f94")]
 [assembly: System.Reflection.AssemblyProductAttribute("TabellaMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TabellaMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
